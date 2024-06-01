@@ -10,7 +10,7 @@ Talk to me about:
 - Backend development using **Flask**.
 - Creating Relational Databases using **SQL**.
 - Creating scalable cloud architecture using **AWS Cloud**.
-- 
+
 ## Connect with me! 🤔
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ethanmadeit/).
 - Portfolio site: [Portfolio](https://ethansantos.github.io/).
