@@ -14,4 +14,3 @@ Talk to me about:
 ## Connect with me! 🤔
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ethanmadeit/).
 - Portfolio site: [Portfolio](https://ethansantos.github.io/).
-![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ethansantos&hide=["issues"]&show_icons=true)
