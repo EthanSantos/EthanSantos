@@ -1,16 +1,17 @@
 ## Hi there 👋
+I am Ethan Santos, a third year Computer Science major at UC Irvine.
 
-<!--
-**EthanSantos/EthanSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I've been programming since late 2016. I am super passionate in game development and I have also started to dive into web development. I first started off developing games on a platform called ROBLOX and developed my first successful game over quarantine in 2020.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Technologies
+Talk to me about:
+- Front-end development using **React, JavaScript, HTML, CSS, TailwindCSS**.
+- Backend development using **Flask**.
+- Creating Relational Databases using **SQL**.
+- Creating scalable cloud architecture using **AWS Cloud**.
+- 
+## Connect with me! 🤔
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ethanmadeit/).
+- Portfolio site: [Portfolio](https://ethansantos.github.io/).
+![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ethansantos&hide=["issues"]&show_icons=true)
