@@ -20,4 +20,6 @@ I'm a third-year Computer Science major at UC Irvine with a deep passion for web
 
 Feel free to reach out or explore my projects. Let's connect and collaborate!
 
+## 🌟 GitHub Stats  
+![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EthanSantos&show_icons=true&theme=radical)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=EthanSantos&theme=radical)](https://git.io/streak-stats)
