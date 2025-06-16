@@ -1,17 +1,17 @@
 # hi there 👋 i'm ethan santos
 
-I'm a third-year Computer Science major at UC Irvine with a deep passion for web development and game development. My programming journey began in late 2016, and since then, I've grown my skills and expertise across various technologies.
+I'm a rising fourth-year Computer Science major at UC Irvine with a deep passion for web development and game development. My programming journey began in late 2016, and since then, I've grown my skills and expertise across various technologies.
 
 ### my journey 🚀
 - **game development:**  
   I started developing games on the ROBLOX platform and created my first successful game during quarantine in 2020 called **AIMSTARS**.  
   - **achievements:** 🏆 
-    - Amassed over **9 million plays**.  
+    - Amassed over **9.5 million plays**.  
     - Generated more than **$30,000 in revenue**.  
     - Check it out here: [AIMSTARS](https://www.roblox.com/games/5153937061/AIMSTARS-FPS-AIM-TRAINER).
 
 - **web development:**  
-  I've participated in multiple hackathons, winning **4 hackathons**, which has sharpened my skills and fostered creativity in building innovative projects.
+  I've participated in multiple hackathons, winning **5 hackathons**, which has sharpened my skills and fostered creativity in building innovative projects.
 
 - **mobile development:**  
   During my internship at **Blue Social**, I worked with React Native to develop mobile applications.  
